@@ -1,4 +1,4 @@
-# Video_metadata_API
+# BCHexEditor
 
   [![NPM Version](https://img.shields.io/npm/v/dvm.svg)](https://npmjs.org/package/dvm)
   ![Test](https://github.com/share/dvm/workflows/Test/badge.svg)
